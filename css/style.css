@@ -1,0 +1,15 @@
+h1{
+    font-size: 75px;
+    font-family: Impact;
+}
+button{
+    width: 250px;
+    height: 80px;
+}
+p{
+    font-size: 35px;
+    font-family: cursive;
+}
+.p2 {
+    font-family: 'Marhey', cursive;
+}
